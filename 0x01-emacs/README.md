@@ -39,13 +39,8 @@ In your terminal:
 * **C-x-4 C-f**   Open a file in other buffer
 * **M-w**   Copy
 
-Tools for compiling, running, and testing programs. Emacs integrates with GDB to provide an IDE
-* M-x gdb; M-x gdb-many-windows
-Emacs can compare two files and highlight their differences 
-* M-x ediff
-Emacs is a file manager
-* M-x dired
-Starts a shell in the buffer named *shell*, switching to it if it already exists. Use C-u M-x shell to use a buffer with a different name.
-* M-x shell
-Displays man pages.
-* M-x man
+*Tools for compiling, running, and testing programs. Emacs integrates with GDB to provide an IDE **M-x gdb; M-x gdb-many-windows**
+* Emacs can compare two files and highlight their differences **M-x ediff**
+* Emacs is a file manager **M-x dired**
+* Starts a shell in the buffer named *shell*, switching to it if it already exists. Use C-u M-x shell to use a buffer with a different name. **M-x shell**
+* Displays man pages. **M-x man**

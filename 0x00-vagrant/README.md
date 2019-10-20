@@ -44,6 +44,8 @@ In computing, a virtual machine (VM) is an emulation of a computer system. Virtu
 * To initialize vagrant (create a Vagrantfile) run the following command: **vagrant init.**
 * Open the file Vagrantfile with your favorite editor (probably Emacs or vi). Find the config.vm.box variable and replace base or any other value with your Ubuntu VM name, in this case ubuntu/trusty64. It should look something like this when you open the Vagrantfile for the fist time:
 
-> #Every Vagrant development environment requires a box. You can search for   	       		     	      	  	       	      	    	       	    	      	       	    	     #boxes at https://atlas.hashicorp.com/search. 	      	       		       	   	                                                                                                  config.vm.box = "base"
+> * #Every Vagrant development environment requires a box. You can search for
+> * #boxes at https://atlas.hashicorp.com/search.
+> * config.vm.box = "base"
 
 Save your Vagrantfile and go back to your shell. Run vagrant up to start the virtual machine.
