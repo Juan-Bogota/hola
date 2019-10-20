@@ -22,9 +22,9 @@ Emacs or EMACS is a family of text editors that are characterized by their exten
 ### Install emacs
 In your terminal:
 
-> $ sudo apt-get update
-> $ sudo apt-get upgrade
-> $ sudo apt-get install emacs
+> * $ sudo apt-get update
+> * $ sudo apt-get upgrade
+> * $ sudo apt-get install emacs
 
 * **C-e**   End of line
 * **C-a**   Beginning of line
@@ -40,12 +40,12 @@ In your terminal:
 * **M-w**   Copy
 
 Tools for compiling, running, and testing programs. Emacs integrates with GDB to provide an IDE
-> M-x gdb; M-x gdb-many-windows
+* M-x gdb; M-x gdb-many-windows
 Emacs can compare two files and highlight their differences 
-> M-x ediff
+* M-x ediff
 Emacs is a file manager
-> M-x dired
+* M-x dired
 Starts a shell in the buffer named *shell*, switching to it if it already exists. Use C-u M-x shell to use a buffer with a different name.
-> M-x shell
+* M-x shell
 Displays man pages.
-> M-x man
+* M-x man

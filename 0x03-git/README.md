@@ -20,7 +20,7 @@
 
 ## GIT
 
-![Alt](https://www.gnu.org/software/emacs/tour/images/splash.png)
+![Alt](https://zdnet1.cbsistatic.com/hub/i/2017/02/26/78ceb3e0-ab28-49de-a50e-b0fbde4e591c/4132d8c61c6fd3ed19044a64cc28a071/git-logo.jpg)
 
 Git is an example of a distributed version control system (DVCS) commonly used for open source and commercial software development. DVCSs allow full access to every file, branch, and iteration of a project, and allows every user access to a full and self-contained history of all changes. Unlike once popular centralized version control systems, DVCSs like Git don’t need a constant connection to a central repository. Developers can work anywhere and collaborate asynchronously from any time zone.
 
@@ -45,6 +45,6 @@ The command in Git are in this [link](https://git-scm.com/docs)
 ### Install git
 If git is not already installed on your terminal:
 
-> $ sudo apt-get update
-> $ sudo apt-get upgrade
-> $ sudo apt-get install git
+> * $ sudo apt-get update
+> * $ sudo apt-get upgrade
+> * $ sudo apt-get install git
